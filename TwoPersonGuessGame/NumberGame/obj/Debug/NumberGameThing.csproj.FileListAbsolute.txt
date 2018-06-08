@@ -1,0 +1,7 @@
+C:\Users\linkai\Source\Repos\ConsoleApp3\ConsoleApp3\bin\Debug\ConsoleApp3.exe.config
+C:\Users\linkai\Source\Repos\ConsoleApp3\ConsoleApp3\bin\Debug\ConsoleApp3.exe
+C:\Users\linkai\Source\Repos\ConsoleApp3\ConsoleApp3\bin\Debug\ConsoleApp3.pdb
+C:\Users\linkai\Source\Repos\ConsoleApp3\ConsoleApp3\obj\Debug\NumberGameThing.csprojAssemblyReference.cache
+C:\Users\linkai\Source\Repos\ConsoleApp3\ConsoleApp3\obj\Debug\NumberGameThing.csproj.CoreCompileInputs.cache
+C:\Users\linkai\Source\Repos\ConsoleApp3\ConsoleApp3\obj\Debug\ConsoleApp3.exe
+C:\Users\linkai\Source\Repos\ConsoleApp3\ConsoleApp3\obj\Debug\ConsoleApp3.pdb

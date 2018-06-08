@@ -1,0 +1,7 @@
+C:\Users\linkai\Source\Repos\BinaryThing\BinaryThing\bin\Debug\BinaryThing.exe.config
+C:\Users\linkai\Source\Repos\BinaryThing\BinaryThing\bin\Debug\BinaryThing.exe
+C:\Users\linkai\Source\Repos\BinaryThing\BinaryThing\bin\Debug\BinaryThing.pdb
+C:\Users\linkai\Source\Repos\BinaryThing\BinaryThing\obj\Debug\BinaryThing.csprojAssemblyReference.cache
+C:\Users\linkai\Source\Repos\BinaryThing\BinaryThing\obj\Debug\BinaryThing.csproj.CoreCompileInputs.cache
+C:\Users\linkai\Source\Repos\BinaryThing\BinaryThing\obj\Debug\BinaryThing.exe
+C:\Users\linkai\Source\Repos\BinaryThing\BinaryThing\obj\Debug\BinaryThing.pdb

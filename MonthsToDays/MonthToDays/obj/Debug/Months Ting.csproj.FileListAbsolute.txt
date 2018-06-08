@@ -1,0 +1,7 @@
+C:\Users\linkai\Source\Repos\Months Ting\Months Ting\bin\Debug\Months Ting.exe.config
+C:\Users\linkai\Source\Repos\Months Ting\Months Ting\bin\Debug\Months Ting.exe
+C:\Users\linkai\Source\Repos\Months Ting\Months Ting\bin\Debug\Months Ting.pdb
+C:\Users\linkai\Source\Repos\Months Ting\Months Ting\obj\Debug\Months Ting.csprojAssemblyReference.cache
+C:\Users\linkai\Source\Repos\Months Ting\Months Ting\obj\Debug\Months Ting.csproj.CoreCompileInputs.cache
+C:\Users\linkai\Source\Repos\Months Ting\Months Ting\obj\Debug\Months Ting.exe
+C:\Users\linkai\Source\Repos\Months Ting\Months Ting\obj\Debug\Months Ting.pdb

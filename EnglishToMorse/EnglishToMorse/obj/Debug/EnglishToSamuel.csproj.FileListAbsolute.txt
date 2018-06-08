@@ -1,0 +1,7 @@
+C:\Users\linkai\Source\Repos\EnglishToSamuel\EnglishToSamuel\bin\Debug\EnglishToSamuel.exe.config
+C:\Users\linkai\Source\Repos\EnglishToSamuel\EnglishToSamuel\bin\Debug\EnglishToSamuel.exe
+C:\Users\linkai\Source\Repos\EnglishToSamuel\EnglishToSamuel\bin\Debug\EnglishToSamuel.pdb
+C:\Users\linkai\Source\Repos\EnglishToSamuel\EnglishToSamuel\obj\Debug\EnglishToSamuel.csprojAssemblyReference.cache
+C:\Users\linkai\Source\Repos\EnglishToSamuel\EnglishToSamuel\obj\Debug\EnglishToSamuel.csproj.CoreCompileInputs.cache
+C:\Users\linkai\Source\Repos\EnglishToSamuel\EnglishToSamuel\obj\Debug\EnglishToSamuel.exe
+C:\Users\linkai\Source\Repos\EnglishToSamuel\EnglishToSamuel\obj\Debug\EnglishToSamuel.pdb

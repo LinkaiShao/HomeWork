@@ -7,7 +7,7 @@ namespace UnitTestProject1
 {
     using System;
     using Microsoft.VisualStudio.TestTools.UnitTesting;
-    using Months_Ting;
+    using MonthToDays;
 
     /// <summary>
     /// Me testing stuff
@@ -21,8 +21,8 @@ namespace UnitTestProject1
         [TestMethod]
         public void TestMethod1()
         {
-            Assert.AreEqual(Months_Ting.Program.MonthDays(3), 31);
-            Assert.AreEqual(Months_Ting.Program.MonthDays2(11), 30);
+            Assert.AreEqual(MonthToDays.Program.MonthDays(3), 31);
+            Assert.AreEqual(MonthToDays.Program.MonthDays2(11), 30);
         }
     }
 }

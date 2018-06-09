@@ -1,0 +1,7 @@
+C:\projects\HomeWork\MonthsToDays\MonthToDays\bin\Debug\Months Ting.exe.config
+C:\projects\HomeWork\MonthsToDays\MonthToDays\bin\Debug\Months Ting.exe
+C:\projects\HomeWork\MonthsToDays\MonthToDays\bin\Debug\Months Ting.pdb
+C:\projects\HomeWork\MonthsToDays\MonthToDays\obj\Debug\MonthToDays.csprojAssemblyReference.cache
+C:\projects\HomeWork\MonthsToDays\MonthToDays\obj\Debug\MonthToDays.csproj.CoreCompileInputs.cache
+C:\projects\HomeWork\MonthsToDays\MonthToDays\obj\Debug\Months Ting.exe
+C:\projects\HomeWork\MonthsToDays\MonthToDays\obj\Debug\Months Ting.pdb

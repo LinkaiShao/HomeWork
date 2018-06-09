@@ -1,0 +1,2 @@
+C:\projects\HomeWork\MonthsToDays\MonthToDaysUnitTest\obj\Debug\MonthToDaysUnitTest.csprojAssemblyReference.cache
+C:\projects\HomeWork\MonthsToDays\MonthToDaysUnitTest\obj\Debug\MonthToDaysUnitTest.csproj.CoreCompileInputs.cache

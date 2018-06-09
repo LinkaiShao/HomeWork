@@ -9,8 +9,8 @@ namespace NumberGameThing
     using System.Collections.Generic;
     using System.Linq;
     using System.Text;
-    using System.Threading.Tasks;
     using System.Threading;
+    using System.Threading.Tasks;
 
     /// <summary>
     /// The main class
@@ -43,9 +43,12 @@ namespace NumberGameThing
             {
                 Console.WriteLine("player one turn");
                 player1Guess += 1;
-                if (int.TryParse(Console.ReadLine(), out guess1))
+                while (!player1Able)
                 {
-                    player1Able = true;
+                    if (int.TryParse(Console.ReadLine(), out guess1))
+                    {
+                        player1Able = true;
+                    }
                 }
                 
                 if (guess1 == num && player1Able)
@@ -68,9 +71,12 @@ namespace NumberGameThing
 
                     Console.WriteLine("player two turn");
                     player2Guess += 1;
-                    if (int.TryParse(Console.ReadLine(), out guess2))
+                    while (!player2Able)
                     {
-                        player2Able = true;
+                        if (int.TryParse(Console.ReadLine(), out guess2))
+                        {
+                            player2Able = true;
+                        }
                     }
 
                     if (guess2 == num && player2Able)
@@ -90,15 +96,7 @@ namespace NumberGameThing
                         {
                             Console.WriteLine("Larger");
                         }
-                    }
-                    else
-                    {
-                        player2Guess -= 1;
-                    }    
-                }
-                else
-                {
-                    player1Guess -= 1;
+                    }                  
                 }
 
                 player1Able = false;

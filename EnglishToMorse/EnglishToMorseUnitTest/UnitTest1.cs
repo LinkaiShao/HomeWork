@@ -21,9 +21,22 @@ namespace UnitTestProject1
         [TestMethod]
         public void TestMethod1()
         {
-            Assert.AreEqual(EnglishToMorse.Program.Convert("abcd"), ".--...-.-.-..");
+            string ans = ".--...-.-.-..";
+            Assert.AreEqual(EnglishToMorse.Program.Convert("abcd"), ans);
+        }
+
+        /// <summary>
+        /// Test if damn turns into the right morse code
+        /// </summary>
+        public void TestMethod2()
+        {
             Assert.AreEqual(EnglishToMorse.Program.Convert("damn"), "-...- -- -.");
+        }
+
+        public void TestMethod3()
+        {
             Assert.AreEqual(EnglishToMorse.Program.Convert("bruh you gay"), "-....-...-..../-.-----..-/--..--.--");
         }
+
     }
 }

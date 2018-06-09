@@ -1,0 +1,17 @@
+C:\projects\HomeWork\BinarySearch\BinarySearchUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\projects\HomeWork\BinarySearch\BinarySearchUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\projects\HomeWork\BinarySearch\BinarySearchUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\projects\HomeWork\BinarySearch\BinarySearchUnitTest\bin\Debug\UnitTestProject1.dll
+C:\projects\HomeWork\BinarySearch\BinarySearchUnitTest\bin\Debug\UnitTestProject1.pdb
+C:\projects\HomeWork\BinarySearch\BinarySearchUnitTest\bin\Debug\BinaryThing.exe
+C:\projects\HomeWork\BinarySearch\BinarySearchUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\projects\HomeWork\BinarySearch\BinarySearchUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\projects\HomeWork\BinarySearch\BinarySearchUnitTest\bin\Debug\BinaryThing.pdb
+C:\projects\HomeWork\BinarySearch\BinarySearchUnitTest\bin\Debug\BinaryThing.exe.config
+C:\projects\HomeWork\BinarySearch\BinarySearchUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\projects\HomeWork\BinarySearch\BinarySearchUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\projects\HomeWork\BinarySearch\BinarySearchUnitTest\obj\Debug\BinarySearchUnitTest.csprojAssemblyReference.cache
+C:\projects\HomeWork\BinarySearch\BinarySearchUnitTest\obj\Debug\BinarySearchUnitTest.csproj.CoreCompileInputs.cache
+C:\projects\HomeWork\BinarySearch\BinarySearchUnitTest\obj\Debug\BinarySearchUnitTest.csproj.CopyComplete
+C:\projects\HomeWork\BinarySearch\BinarySearchUnitTest\obj\Debug\UnitTestProject1.dll
+C:\projects\HomeWork\BinarySearch\BinarySearchUnitTest\obj\Debug\UnitTestProject1.pdb

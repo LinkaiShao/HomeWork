@@ -13,21 +13,21 @@ namespace NumberGameThing
     using System.Threading;
 
     /// <summary>
-    /// Tests shit for me, runs number game
+    /// The main class
     /// </summary>
     public class Program
     {
         /// <summary>
-        /// Main ting
+        /// Main class
         /// </summary>
-        /// <param name="args"> those are args </param>
+        /// <param name="args"> the arguments of main </param>
         public static void Main(string[] args)
         {
             NumberGame();
         }
         
         /// <summary>
-        /// Runs the number game that has two kids guessing numbers 
+        /// Runs the number game that has two kids guessing numbers. The kid who guesses the number first wins. (This game is only for kids)
         /// </summary>
         public static void NumberGame()
         {
@@ -35,21 +35,27 @@ namespace NumberGameThing
             int num = rnd.Next(0, 99);
             int guess1 = 0;
             int guess2 = 0;
+            bool player1Able = false;
+            bool player2Able = false;
             int player1Guess = 0;
             int player2Guess = 0;
             while (true)
             {
                 Console.WriteLine("player one turn");
                 player1Guess += 1;
-                guess1 = Convert.ToInt32(Console.ReadLine());
-                if (guess1 == num)
+                if (int.TryParse(Console.ReadLine(), out guess1))
+                {
+                    player1Able = true;
+                }
+                
+                if (guess1 == num && player1Able)
                 {
                     Console.WriteLine("player1 has won");
                     Console.WriteLine("he took {0} guesses", player1Guess);
                     Thread.Sleep(6000);
                     return;
                 }
-                else
+                else if (player1Able)
                 {
                     if (guess1 > num)
                     {
@@ -60,26 +66,43 @@ namespace NumberGameThing
                         Console.WriteLine("Larger");
                     }
 
-                    player2Guess += 1;
                     Console.WriteLine("player two turn");
-                    guess2 = Convert.ToInt32(Console.ReadLine());
-                    if (guess2 == num)
+                    player2Guess += 1;
+                    if (int.TryParse(Console.ReadLine(), out guess2))
+                    {
+                        player2Able = true;
+                    }
+
+                    if (guess2 == num && player2Able)
                     {
                         Console.WriteLine("player2 has won");
                         Console.WriteLine("he took {0} guesses", player2Guess);
                         Thread.Sleep(6000);
                         return;                   
                     }
-
-                    if (guess2 > num)
+                    else if (player2Able)
                     {
-                        Console.WriteLine("smaller");
+                        if (guess2 > num)
+                        {
+                            Console.WriteLine("smaller");
+                        }
+                        else
+                        {
+                            Console.WriteLine("Larger");
+                        }
                     }
                     else
                     {
-                        Console.WriteLine("Larger");
-                    }
+                        player2Guess -= 1;
+                    }    
                 }
+                else
+                {
+                    player1Guess -= 1;
+                }
+
+                player1Able = false;
+                player2Able = false;
             }
         }
     }

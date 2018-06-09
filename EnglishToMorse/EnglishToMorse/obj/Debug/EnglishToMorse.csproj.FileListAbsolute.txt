@@ -1,0 +1,7 @@
+C:\projects\HomeWork\EnglishToMorse\EnglishToMorse\bin\Debug\EnglishToSamuel.exe.config
+C:\projects\HomeWork\EnglishToMorse\EnglishToMorse\bin\Debug\EnglishToSamuel.exe
+C:\projects\HomeWork\EnglishToMorse\EnglishToMorse\bin\Debug\EnglishToSamuel.pdb
+C:\projects\HomeWork\EnglishToMorse\EnglishToMorse\obj\Debug\EnglishToMorse.csprojAssemblyReference.cache
+C:\projects\HomeWork\EnglishToMorse\EnglishToMorse\obj\Debug\EnglishToMorse.csproj.CoreCompileInputs.cache
+C:\projects\HomeWork\EnglishToMorse\EnglishToMorse\obj\Debug\EnglishToSamuel.exe
+C:\projects\HomeWork\EnglishToMorse\EnglishToMorse\obj\Debug\EnglishToSamuel.pdb

@@ -23,17 +23,27 @@ namespace MonthToDays
         /// <returns> Returns the days </returns>
         public static int MonthDays(int month)
         {
+            if (month == 0 || month > 12)
+            {
+                return -1;
+            }
+
             int[] months = new int[] { 31, 28, 31, 30, 31, 30, 31, 31, 30, 31, 30, 31 };
             return months[month - 1];
         }
 
         /// <summary>
-        /// This big ting is the same as month days 1 except for used 2 ifs and no arrays.
+        /// This function is the same as month days 1 except for used 2 ifs and no arrays.
         /// </summary>
         /// <param name="month"> The month </param>
         /// <returns> The days </returns>
         public static int MonthDays2(int month)
         {
+            if (month == 0 || month > 12)
+            {
+                return -1;
+            }
+
             if (month == 1 || month == 3 || month == 5 || month == 7 || month == 8 || month == 10 || month == 12)
             {
                 return 31;

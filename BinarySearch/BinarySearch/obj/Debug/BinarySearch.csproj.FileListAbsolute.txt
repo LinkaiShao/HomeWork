@@ -1,0 +1,7 @@
+C:\projects\HomeWork\BinarySearch\BinarySearch\bin\Debug\BinaryThing.exe.config
+C:\projects\HomeWork\BinarySearch\BinarySearch\bin\Debug\BinaryThing.exe
+C:\projects\HomeWork\BinarySearch\BinarySearch\bin\Debug\BinaryThing.pdb
+C:\projects\HomeWork\BinarySearch\BinarySearch\obj\Debug\BinarySearch.csprojAssemblyReference.cache
+C:\projects\HomeWork\BinarySearch\BinarySearch\obj\Debug\BinarySearch.csproj.CoreCompileInputs.cache
+C:\projects\HomeWork\BinarySearch\BinarySearch\obj\Debug\BinaryThing.exe
+C:\projects\HomeWork\BinarySearch\BinarySearch\obj\Debug\BinaryThing.pdb

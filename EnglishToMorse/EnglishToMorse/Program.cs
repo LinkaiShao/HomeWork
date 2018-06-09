@@ -3,7 +3,7 @@
 //     Company copyright tag.
 // </copyright>
 //-----------------------------------------------------------------------
-namespace EnglishToSamuel
+namespace EnglishToMorse
 {
     using System;
     using System.Collections.Generic;
@@ -24,7 +24,7 @@ namespace EnglishToSamuel
         /// <summary>
         /// Creates the dictionary and runs the function
         /// </summary>
-        /// <param name="args"> Main thing of the code </param>
+        /// <param name="args"> The arguments for main </param>
         public static void Main(string[] args)
         {
             convertDict = new Dictionary<char, string>()
@@ -54,19 +54,36 @@ namespace EnglishToSamuel
                 { 'w', ".--" },
                 { 'x', "-..-" },
                 { 'y', "-.--" },
-                { 'z', "--.." }
+                { 'z', "--.." },
+                { '1', ".----" },
+                { '2', "..---" },
+                { '3', "...--" },
+                { '4', "....-" },
+                { '5', "....." },
+                { '6', "-...." },
+                { '7', "--..." },
+                { '8', "---.." },
+                { '9', "----." },
+                { '0', "-----" }
             };
             Console.WriteLine("what do you want to transfer");
             string userInput = Console.ReadLine();
-            Console.WriteLine(Convert(userInput));
-            Console.ReadLine();
+            if (userInput != null || userInput.Length > 0)
+            {
+                Console.WriteLine(Convert(userInput));
+                Console.ReadLine();
+            }
+            else
+            {
+                Console.WriteLine("Can't have null for your input");
+            }
         }
 
         /// <summary>
         /// Converts the English to Morse code
         /// </summary>
-        /// <param name="input"> Put in the input </param>
-        /// <returns> a string of Morse Shit </returns>
+        /// <param name="input"> Put in the input like numbers, letters </param>
+        /// <returns> a string of Morse </returns>
         public static string Convert(string input)
         {
             string output = string.Empty;
@@ -78,7 +95,7 @@ namespace EnglishToSamuel
                 }
                 else
                 {
-                    output += "_ ";
+                    output += "/";
                 }
             }
 

@@ -5,23 +5,25 @@
 //-----------------------------------------------------------------------
 namespace UnitTestProject1
 {
-    using System;
     using Microsoft.VisualStudio.TestTools.UnitTesting;
-    using EnglishToSamuel;
+    using System;
+    using EnglishToMorse;
 
     /// <summary>
-    /// Tests shit
+    /// The unit test class
     /// </summary>
     [TestClass]
     public class UnitTest1
     {
         /// <summary>
-        /// Test if the result is correct
+        /// Test if the results are actually the correct morse code
         /// </summary>
         [TestMethod]
         public void TestMethod1()
         {
-            Assert.AreEqual(EnglishToSamuel.Program.Convert("abcd"), ".--...-.-.-..");
+            Assert.AreEqual(EnglishToMorse.Program.Convert("abcd"), ".--...-.-.-..");
+            Assert.AreEqual(EnglishToMorse.Program.Convert("damn"), "-...- -- -.");
+            Assert.AreEqual(EnglishToMorse.Program.Convert("bruh you gay"), "-....-...-..../-.-----..-/--..--.--");
         }
     }
 }

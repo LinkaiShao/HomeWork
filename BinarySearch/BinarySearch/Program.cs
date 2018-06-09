@@ -17,18 +17,18 @@ namespace BinaryThing
     public class Program
     {
         /// <summary>
-        /// Main thing 
+        /// The main function
         /// </summary>
-        /// <param name="args"> Args things </param>
+        /// <param name="args"> arguments of main </param>
         public static void Main(string[] args)
         {
             int[] numbers = new int[] { 1, 2, 3, 4, 6, 7, 8, 9, 11, 12 };
-           Console.WriteLine(BinarySearch(numbers, 10));
+           Console.WriteLine(BinarySearch(numbers, 2));
             Console.ReadLine();
         }
 
         /// <summary>
-        /// The search method
+        /// The binary search method that limits the array to find numbers more efficiently
         /// </summary>
         /// <param name="array"> the input array </param>
         /// <param name="number"> input number </param>
@@ -50,7 +50,7 @@ namespace BinaryThing
             {
                 // Since its an integer, the decimals would be converted to whole number
                     mid = (first + last) / 2;
-                ////if number is bigger than mid, limit by half by moving first to mid + 1. This way, the array having even number of items is resolved
+                ////if number is bigger than mid, limit by half by moving first to mid + 1. This way, the array having even number of items is resolved and would be more efficient since it has less numbers to care about
                     if (number > array[mid])
                     {
                         first = mid + 1;

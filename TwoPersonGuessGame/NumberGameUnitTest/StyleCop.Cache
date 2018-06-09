@@ -1,5 +1,8 @@
 <stylecopresultscache>
   <version>12</version>
+  <project key="1620177101">
+    <configuration>DEBUG;TRACE</configuration>
+  </project>
   <sourcecode name="AssemblyInfo.cs" parser="StyleCop.CSharp.CsParser">
     <timestamps>
       <styleCop>2018/06/03 17:31:46.511</styleCop>
@@ -23,14 +26,11 @@
     </timestamps>
     <violations />
   </sourcecode>
-  <project key="1620177101">
-    <configuration>DEBUG;TRACE</configuration>
-  </project>
   <sourcecode name="UnitTest1.cs" parser="StyleCop.CSharp.CsParser">
     <timestamps>
       <styleCop>2018/06/03 17:31:46.511</styleCop>
       <settingsFile>2018/06/03 17:31:46.466</settingsFile>
-      <sourceFile>2018/06/07 20:38:25.011</sourceFile>
+      <sourceFile>2018/06/07 21:14:16.806</sourceFile>
       <parser>2018/06/03 17:31:46.511</parser>
       <StyleCop.CSharp.DocumentationRules>2018/06/03 17:31:46.511</StyleCop.CSharp.DocumentationRules>
       <StyleCop.CSharp.DocumentationRules.FilesHashCode>-1249922052</StyleCop.CSharp.DocumentationRules.FilesHashCode>
@@ -49,4 +49,7 @@
     </timestamps>
     <violations />
   </sourcecode>
+  <project key="1369966570">
+    <configuration>DEBUG;TRACE</configuration>
+  </project>
 </stylecopresultscache>

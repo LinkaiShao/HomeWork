@@ -23,6 +23,8 @@ namespace UnitTestProject1
         {
             Assert.AreEqual(MonthToDays.Program.MonthDays(3), 31);
             Assert.AreEqual(MonthToDays.Program.MonthDays2(11), 30);
+            Assert.AreEqual(MonthToDays.Program.MonthDays(13), -1);
+            Assert.AreEqual(MonthToDays.Program.MonthDays(0), -1);
         }
     }
 }

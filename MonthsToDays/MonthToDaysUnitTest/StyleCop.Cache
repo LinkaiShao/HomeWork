@@ -3,9 +3,6 @@
   <project key="1716948459">
     <configuration>DEBUG;TRACE</configuration>
   </project>
-  <project key="-1994083041">
-    <configuration>DEBUG;TRACE</configuration>
-  </project>
   <sourcecode name="AssemblyInfo.cs" parser="StyleCop.CSharp.CsParser">
     <timestamps>
       <styleCop>2018/06/03 17:31:46.511</styleCop>
@@ -33,7 +30,7 @@
     <timestamps>
       <styleCop>2018/06/03 17:31:46.511</styleCop>
       <settingsFile>2018/06/03 17:31:46.466</settingsFile>
-      <sourceFile>2018/06/05 21:20:32.669</sourceFile>
+      <sourceFile>2018/06/08 18:10:15.097</sourceFile>
       <parser>2018/06/03 17:31:46.511</parser>
       <StyleCop.CSharp.DocumentationRules>2018/06/03 17:31:46.511</StyleCop.CSharp.DocumentationRules>
       <StyleCop.CSharp.DocumentationRules.FilesHashCode>-1249922052</StyleCop.CSharp.DocumentationRules.FilesHashCode>
@@ -52,4 +49,7 @@
     </timestamps>
     <violations />
   </sourcecode>
+  <project key="-1994083041">
+    <configuration>DEBUG;TRACE</configuration>
+  </project>
 </stylecopresultscache>

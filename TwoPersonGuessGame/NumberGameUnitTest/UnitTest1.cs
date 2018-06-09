@@ -10,13 +10,13 @@ namespace UnitTestProject1
     using NumberGameThing;
 
     /// <summary>
-    /// This big ting tests
+    /// The Unit Test class
     /// </summary>
     [TestClass]
     public class UnitTest1
     {
         /// <summary>
-        /// Big man
+        /// Tests the function of number game
         /// </summary>
         [TestMethod]
         public void TestMethod1()

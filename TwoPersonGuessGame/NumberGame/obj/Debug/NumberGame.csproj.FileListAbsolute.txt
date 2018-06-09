@@ -1,0 +1,7 @@
+C:\projects\HomeWork\TwoPersonGuessGame\NumberGame\bin\Debug\ConsoleApp3.exe.config
+C:\projects\HomeWork\TwoPersonGuessGame\NumberGame\bin\Debug\ConsoleApp3.exe
+C:\projects\HomeWork\TwoPersonGuessGame\NumberGame\bin\Debug\ConsoleApp3.pdb
+C:\projects\HomeWork\TwoPersonGuessGame\NumberGame\obj\Debug\NumberGame.csprojAssemblyReference.cache
+C:\projects\HomeWork\TwoPersonGuessGame\NumberGame\obj\Debug\NumberGame.csproj.CoreCompileInputs.cache
+C:\projects\HomeWork\TwoPersonGuessGame\NumberGame\obj\Debug\ConsoleApp3.exe
+C:\projects\HomeWork\TwoPersonGuessGame\NumberGame\obj\Debug\ConsoleApp3.pdb

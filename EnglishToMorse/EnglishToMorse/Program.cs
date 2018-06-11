@@ -19,15 +19,7 @@ namespace EnglishToMorse
         /// <summary>
         /// Dictionary that contains characters to morse code. 
         /// </summary>
-        private static Dictionary<char, string> convertDict;
-
-        /// <summary>
-        /// Creates the dictionary and runs the function
-        /// </summary>
-        /// <param name="args"> The arguments for main </param>
-        public static void Main(string[] args)
-        {
-            convertDict = new Dictionary<char, string>()
+        private static Dictionary<char, string> convertDict = new Dictionary<char, string>()
             {
                 { 'a', ".-" },
                 { 'b', "-..." },
@@ -66,6 +58,13 @@ namespace EnglishToMorse
                 { '9', "----." },
                 { '0', "-----" }
             };
+
+    /// <summary>
+    /// Creates the dictionary and runs the function
+    /// </summary>
+    /// <param name="args"> The arguments for main </param>
+    public static void Main(string[] args)
+        {
             Console.WriteLine("what do you want to transfer");
             string userInput = Console.ReadLine();
             if (userInput != null || userInput.Length > 0)

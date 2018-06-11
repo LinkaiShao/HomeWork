@@ -1,2 +1,17 @@
 C:\projects\HomeWork\MonthsToDays\MonthToDaysUnitTest\obj\Debug\MonthToDaysUnitTest.csprojAssemblyReference.cache
 C:\projects\HomeWork\MonthsToDays\MonthToDaysUnitTest\obj\Debug\MonthToDaysUnitTest.csproj.CoreCompileInputs.cache
+C:\projects\HomeWork\MonthsToDays\MonthToDaysUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\projects\HomeWork\MonthsToDays\MonthToDaysUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\projects\HomeWork\MonthsToDays\MonthToDaysUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\projects\HomeWork\MonthsToDays\MonthToDaysUnitTest\bin\Debug\UnitTestProject1.dll
+C:\projects\HomeWork\MonthsToDays\MonthToDaysUnitTest\bin\Debug\UnitTestProject1.pdb
+C:\projects\HomeWork\MonthsToDays\MonthToDaysUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\projects\HomeWork\MonthsToDays\MonthToDaysUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\projects\HomeWork\MonthsToDays\MonthToDaysUnitTest\bin\Debug\Months Ting.exe
+C:\projects\HomeWork\MonthsToDays\MonthToDaysUnitTest\bin\Debug\Months Ting.pdb
+C:\projects\HomeWork\MonthsToDays\MonthToDaysUnitTest\bin\Debug\Months Ting.exe.config
+C:\projects\HomeWork\MonthsToDays\MonthToDaysUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\projects\HomeWork\MonthsToDays\MonthToDaysUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\projects\HomeWork\MonthsToDays\MonthToDaysUnitTest\obj\Debug\MonthToDaysUnitTest.csproj.CopyComplete
+C:\projects\HomeWork\MonthsToDays\MonthToDaysUnitTest\obj\Debug\UnitTestProject1.dll
+C:\projects\HomeWork\MonthsToDays\MonthToDaysUnitTest\obj\Debug\UnitTestProject1.pdb

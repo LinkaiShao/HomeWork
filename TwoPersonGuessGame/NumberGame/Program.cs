@@ -23,16 +23,16 @@ namespace NumberGameThing
         /// <param name="args"> the arguments of main </param>
         public static void Main(string[] args)
         {
-            NumberGame();
+            Random rnd = new Random();
+            int num = rnd.Next(0, 99);
+            NumberGame(num);
         }
-        
+
         /// <summary>
         /// Runs the number game that has two kids guessing numbers. The kid who guesses the number first wins. (This game is only for kids)
         /// </summary>
-        public static void NumberGame()
+        public static void NumberGame(int num)
         {
-            Random rnd = new Random();
-            int num = rnd.Next(0, 99);
             int guess1 = 0;
             int guess2 = 0;
             bool player1Able = false;

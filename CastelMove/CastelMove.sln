@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2026
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CastelMove", "CastelMove\CastelMove.csproj", "{E1307706-080C-41C2-8521-94AC01B4F498}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestCastelMove", "TestCastelMove\TestCastelMove.csproj", "{1EE19EAA-09B0-4C22-98AE-FA24A2185DD7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E1307706-080C-41C2-8521-94AC01B4F498}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E1307706-080C-41C2-8521-94AC01B4F498}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E1307706-080C-41C2-8521-94AC01B4F498}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E1307706-080C-41C2-8521-94AC01B4F498}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1EE19EAA-09B0-4C22-98AE-FA24A2185DD7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1EE19EAA-09B0-4C22-98AE-FA24A2185DD7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1EE19EAA-09B0-4C22-98AE-FA24A2185DD7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1EE19EAA-09B0-4C22-98AE-FA24A2185DD7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0A56687D-3900-47E8-B803-83474B547A5B}
+	EndGlobalSection
+EndGlobal

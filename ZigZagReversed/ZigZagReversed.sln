@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2026
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZigZagReversed", "ZigZagReversed\ZigZagReversed.csproj", "{AB403142-66A3-4723-97D6-0492A264BAA0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZigZagReverseTest", "ZigZagReverseTest\ZigZagReverseTest.csproj", "{11A97947-DBAB-46DC-99FF-B95AF0933640}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AB403142-66A3-4723-97D6-0492A264BAA0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB403142-66A3-4723-97D6-0492A264BAA0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB403142-66A3-4723-97D6-0492A264BAA0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB403142-66A3-4723-97D6-0492A264BAA0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{11A97947-DBAB-46DC-99FF-B95AF0933640}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{11A97947-DBAB-46DC-99FF-B95AF0933640}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{11A97947-DBAB-46DC-99FF-B95AF0933640}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{11A97947-DBAB-46DC-99FF-B95AF0933640}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2F2D7B18-A40B-4287-90D8-8F1E486F5AF0}
+	EndGlobalSection
+EndGlobal

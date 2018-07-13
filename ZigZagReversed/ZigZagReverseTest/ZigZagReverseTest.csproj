@@ -4,11 +4,11 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{B1C48B85-5249-44FF-B80F-740BD7BB57EC}</ProjectGuid>
+    <ProjectGuid>{11A97947-DBAB-46DC-99FF-B95AF0933640}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>ArrayCombineTest</RootNamespace>
-    <AssemblyName>ArrayCombineTest</AssemblyName>
+    <RootNamespace>ZigZagReverseTest</RootNamespace>
+    <AssemblyName>ZigZagReverseTest</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <ProjectTypeGuids>{3AC096D0-A1C2-E12C-1390-A8335801FDAB};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
@@ -48,18 +48,17 @@
     <Reference Include="System.Core" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="ArrayCombineTest.cs">
-      <ExcludeFromStyleCop>False</ExcludeFromStyleCop>
-    </Compile>
+    <Compile Include="TestOutput.cs" />
+    <Compile Include="UnitTest1.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\ArrayCombine%28Actual%29\ArrayCombine.csproj">
-      <Project>{8f4a02aa-2cf5-4159-a6e8-a921febbb9de}</Project>
-      <Name>ArrayCombine</Name>
+    <ProjectReference Include="..\ZigZagReversed\ZigZagReversed.csproj">
+      <Project>{ab403142-66a3-4723-97d6-0492a264baa0}</Project>
+      <Name>ZigZagReversed</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(VSToolsPath)\TeamTest\Microsoft.TestTools.targets" Condition="Exists('$(VSToolsPath)\TeamTest\Microsoft.TestTools.targets')" />
